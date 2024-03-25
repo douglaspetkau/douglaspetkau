@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @douglaspetkau
-- 👀 I’m interested in Data Science/Data Engineering
-- 🌱 I’m currently learning ML Facial Categorization
-- 💞️ I’m looking to collaborate on Raspberry Pi 4 Data Engineering Stack
+- 👀 I’m interested in Active Inference / Free Energy Principle
+- 🌱 I’m currently learning Actor Model in Erlang
+- 💞️ I’m looking to collaborate on Intelligent Actor project using Free Energy Principle
 - 📫 How to reach me douglas.petkau@gmail.com
 
 <!---
